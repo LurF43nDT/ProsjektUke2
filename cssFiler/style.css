@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-background-image: url("");
+background-color: rgb(123, 149, 149);
 }
 nav{
     background-color: aquamarine;
@@ -14,9 +14,10 @@ nav{
     justify-content: space-between; 
     flex-direction: row;
     align-items: center;
+    
 }
 footer{
     background-color: beige;
-    height: 100px;
+    height: 50px;
     width: 100%
 }
